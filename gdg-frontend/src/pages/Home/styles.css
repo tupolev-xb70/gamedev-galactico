@@ -9,11 +9,31 @@
     justify-content: center;
 }
 
+
 .home-container section.form{
     width: 100%;
     max-width: 350px;
+    margin-right: 50px;
 }
 
-.logo-text {
-    font-family: 'Press Start 2P', cursive;
+.home-container section.form form{
+    margin-top: 50px;
 }
+
+.form-desc{
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+
+.desc-text{
+    font-size: 22px;
+    margin-bottom: 32px;
+}
+
+.logo-text{
+    font-size: 32px;
+    margin-bottom: 32px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
