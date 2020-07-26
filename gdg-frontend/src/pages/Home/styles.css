@@ -28,12 +28,12 @@
 .desc-text{
     font-size: 22px;
     margin-bottom: 32px;
+    font: Roboto;
 }
 
 .logo-text{
     font-size: 32px;
     margin-bottom: 32px;
     font-family: 'Press Start 2P', cursive;
-    text-align: center;
 }
 
