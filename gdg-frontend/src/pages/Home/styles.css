@@ -12,7 +12,7 @@
 
 .home-container section.form{
     width: 100%;
-    max-width: 350px;
+    max-width: 500px;
     margin-right: 50px;
 }
 
@@ -32,8 +32,25 @@
 }
 
 .logo-text{
+    display: flex;
     font-size: 32px;
     margin-bottom: 32px;
     font-family: 'Press Start 2P', cursive;
+    text-align: right;
+}
+
+.logo-text .title{
+    flex: 0 0 65%;
+}
+
+.logo-text .title h1{
+    margin-bottom: 12px;
+    text-align: justify;
+}
+
+.logo-text .title-logo{
+    flex: 1;
+    margin-bottom: 32px;
+    text-align: right;
 }
 

@@ -4,6 +4,7 @@ import Fade from 'react-reveal/Fade';
 
 import './styles.css'
 import logo from '../../assets/gameDevGalacticoNome.png'
+import test from '../../assets/logoNew.png'
 
 // import gamedevImg from '../../assets/gamedev.png'
 
@@ -31,8 +32,13 @@ export default function Home(){
             <section className="form">
                 <div className="logo-text">
                     <Jump>
-                        {/* <img src={logo} alt="GameDev Galáctico"/> */}
-                        <h1>GameDev Galáctico</h1>
+                        <div className="title">
+                            <h1>GameDev</h1>
+                            <h1>Galáctico</h1>
+                        </div>
+                        <div className="title-logo">
+                            <img src={test} alt="GameDev Galactico" width="118" height="100"></img>
+                        </div>
                     </Jump>
                 </div>
                 <div className="desc-text">
