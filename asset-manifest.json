@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gamedev-galactico/static/css/main.06a6b66d.chunk.css",
+    "main.js": "/gamedev-galactico/static/js/main.aec1f9f4.chunk.js",
+    "main.js.map": "/gamedev-galactico/static/js/main.aec1f9f4.chunk.js.map",
+    "runtime-main.js": "/gamedev-galactico/static/js/runtime-main.b9c4c267.js",
+    "runtime-main.js.map": "/gamedev-galactico/static/js/runtime-main.b9c4c267.js.map",
+    "static/js/2.0c9a6ef0.chunk.js": "/gamedev-galactico/static/js/2.0c9a6ef0.chunk.js",
+    "static/js/2.0c9a6ef0.chunk.js.map": "/gamedev-galactico/static/js/2.0c9a6ef0.chunk.js.map",
+    "index.html": "/gamedev-galactico/index.html",
+    "precache-manifest.f402328dd3d3257a99c0cb91d10306c3.js": "/gamedev-galactico/precache-manifest.f402328dd3d3257a99c0cb91d10306c3.js",
+    "service-worker.js": "/gamedev-galactico/service-worker.js",
+    "static/css/main.06a6b66d.chunk.css.map": "/gamedev-galactico/static/css/main.06a6b66d.chunk.css.map",
+    "static/js/2.0c9a6ef0.chunk.js.LICENSE.txt": "/gamedev-galactico/static/js/2.0c9a6ef0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c4c267.js",
+    "static/js/2.0c9a6ef0.chunk.js",
+    "static/css/main.06a6b66d.chunk.css",
+    "static/js/main.aec1f9f4.chunk.js"
+  ]
+}
