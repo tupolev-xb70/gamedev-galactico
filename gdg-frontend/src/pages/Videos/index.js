@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Fade from 'react-reveal/Fade';
 import HeadShake from 'react-reveal/HeadShake';
 import Pulse from 'react-reveal/Pulse';
@@ -12,14 +12,14 @@ import instagram from '../../assets/socials/instagram.png'
 
 // import gamedevImg from '../../assets/gamedev.png'
 
-export default function Contact() {
+export default function Videos() {
     return (
         <div className="home-container">
             <section className="form">
                 <div className="logo-text">
                     <HeadShake>
                         <div className="title">
-                            <h1>Contatos</h1>
+                            <h1>Videos</h1>
                         </div>
                         <div className="title-logo">
                             <img src={logo} alt="GameDev Galactico" width="118" height="100"></img>
