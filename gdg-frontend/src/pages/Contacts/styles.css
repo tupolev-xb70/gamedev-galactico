@@ -1,0 +1,68 @@
+.home-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-container section.form{
+    max-width: 600px;
+}
+
+.form-desc{
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+
+.desc-text{
+    font-size: 22px;
+    margin-bottom: 32px;
+    font: Roboto;
+}
+
+.title h1{
+    font-size: 52px;    
+}
+
+.desc-text p{
+    font-size: 32px;
+    margin-bottom: 32px;
+    font: Roboto;
+}
+
+.logo-text{
+    max-width: 600px;
+    display: flex;
+    font-size: 32px;
+    margin-bottom: 32px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: right;
+}
+
+.logo-text .title{
+    flex: 0 0 65%;
+}
+
+.logo-text .title h1{
+    margin-bottom: 12px;
+    text-align: justify;
+}
+
+.logo-text .title-logo{
+    flex: 1;
+    margin-bottom: 32px;
+    text-align: right;
+}
+
+.socials{
+    margin-top: 60px;
+    max-width: 600px;
+}
+
+.socials a{
+    margin-right: 66px;
+}

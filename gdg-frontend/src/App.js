@@ -8,7 +8,7 @@ import { ThemeProvider } from 'styled-components';
 import { Burger, Menu } from './components';
 import { theme } from './theme';
 
-import Home from './pages/Home'
+import Routes from './routes'
 
 function App() {
   const [open, setOpen] = useState(false);
@@ -26,7 +26,7 @@ function App() {
         </FocusLock>
       </div>
       <div>
-        < Home />
+        < Routes />
       </div>
     </ThemeProvider>
   );

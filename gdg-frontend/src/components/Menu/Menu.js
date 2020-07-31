@@ -21,7 +21,7 @@ const Menu = ({ open, ...props }) => {
         <span aria-hidden="true">🎮</span>
         Jogos
       </a>
-      <a href="/" tabIndex={tabIndex}>
+      <a href="/contact" tabIndex={tabIndex}>
         <span aria-hidden="true">📩</span>
         Contato
         </a>
